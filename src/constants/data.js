@@ -102,7 +102,6 @@ export const JOURNEY = [
 
 export const CONTACTS = [
   ["Email",    "marsilaseimoon@gmail.com", "mailto:marsilaseimoon@gmail.com"],
-  ["Phone",    "+92 325 254 1968",          "tel:+923252541968"],
   ["GitHub",   "github.com/marsilaseimoon-sys", "https://github.com/marsilaseimoon-sys/"],
   ["Fiverr",   "fiverr.com/s/kLBPdjb",     "https://www.fiverr.com/s/kLBPdjb"],
   ["Location", "Pakistan 🇵🇰",             null],
