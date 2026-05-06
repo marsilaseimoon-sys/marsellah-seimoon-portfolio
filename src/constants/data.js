@@ -90,7 +90,7 @@ export const PROJECTS = [
     tags: ["React", "FastAPI", "Python", "BeautifulSoup"],
     desc: "AI-powered lead generation tool — real-time web scraping with live streaming, multi-URL support, depth control, deduplication, live page counter and CSV/TXT export for marketing campaigns.",
     metrics: [{ v: "Real-time", l: "Streaming" }, { v: "CSV+TXT", l: "Export" }, { v: "50+", l: "Pages/Run" }],
-    link: "https://github.com/marsilaseimoon-sys/advance-email-collector",
+    link: "https://github.com/marsilaseimoon-sys/advance-email-collector.git",
   },
 ];
 
