@@ -74,10 +74,28 @@ export const PROJECTS = [
     desc: "Object-oriented hotel operations system — room allocation, booking lifecycle, billing engine demonstrating strong systems programming.",
     link: "https://github.com/marsellaseimoon/hotel-management",
   },
+  {
+    id: "p7", num: "07", badge: "NEW", tag: "AI · Content",
+    title: "PostCraft AI — Social Media Generator",
+    sub: "React · Claude API · Multi-platform · Multi-language",
+    tags: ["React", "Claude API", "JavaScript", "CSS"],
+    desc: "AI-powered social media post generator — 5 platforms (Instagram, LinkedIn, Twitter, TikTok, Facebook), 6 languages including Urdu, tone control, hashtag generation and post history with search & filter.",
+    metrics: [{ v: "5", l: "Platforms" }, { v: "6", l: "Languages" }, { v: "6", l: "Tones" }],
+    link: "https://github.com/marsilaseimoon-sys/ai-social-post-generator",
+  },
+  {
+    id: "p8", num: "08", badge: "NEW", tag: "AI · Marketing",
+    title: "Advance Email Collector",
+    sub: "React · FastAPI · BeautifulSoup · Real-time Streaming",
+    tags: ["React", "FastAPI", "Python", "BeautifulSoup"],
+    desc: "AI-powered lead generation tool — real-time web scraping with live streaming, multi-URL support, depth control, deduplication, live page counter and CSV/TXT export for marketing campaigns.",
+    metrics: [{ v: "Real-time", l: "Streaming" }, { v: "CSV+TXT", l: "Export" }, { v: "50+", l: "Pages/Run" }],
+    link: "https://github.com/marsilaseimoon-sys/advance-email-collector",
+  },
 ];
 
 export const STATS = [
-  { n: "7+", l: "Projects Shipped" },
+  { n: "9+", l: "Projects Shipped" },
   { n: "9",  l: "Tech Skills" },
   { n: "50+", l: "Languages (DubStudio)" },
   { n: "2026", l: "Available Now" },
@@ -102,6 +120,7 @@ export const JOURNEY = [
 
 export const CONTACTS = [
   ["Email",    "marsilaseimoon@gmail.com", "mailto:marsilaseimoon@gmail.com"],
+  ["Phone",    "+92 325 254 1968",          "tel:+923252541968"],
   ["GitHub",   "github.com/marsilaseimoon-sys", "https://github.com/marsilaseimoon-sys/"],
   ["Fiverr",   "fiverr.com/s/kLBPdjb",     "https://www.fiverr.com/s/kLBPdjb"],
   ["Location", "Pakistan 🇵🇰",             null],
